@@ -1,156 +1,34 @@
 {
  "aboutdata": [
  {
- "mainheading": "About - The Custom Websites",
- "info": "<a href='/' className='text-blue-500 hover:text-blue-600'>The Custom Websites</a> started as a Web Development company that aims to help clients <a href='custom-web-development' className='text-blue-500 hover:text-blue-600'> build Custom websites</a> and mobile applications, which in turn helps them establish and grow their businesses. We have worked with 300+ clients on over 500 projects ranging from small startups to massive projects of largely settled organizations. Armed with the best team of employees, we <strong>hear, understand</strong>, and <strong>provide</strong> solutions to our clients’ problems. Our company will take your business idea to the next level with the help of our dedicated staff and the latest technology.",
  "description": [
  {
- "heading": "Our Major Services",
- "text": "Clients: We have worked with 300+ clients worldwide, including clients from the USA, UK, and Canada.",
- "list": [
- "Custom Website Development",
- "Mobile App Development",
- "Search Engine Optimization",
- "DevOps Consulting",
- "Web Design Services",
- "Data Strategy Roadmap",
- "Graphics & Branding",
- "Custom CMS Development"
- ]
+ "heading": "Declarative",
+ "text": "React allows you to create interactive UIs easily by using a declarative approach, where you describe how your UI should look based on the application's state, and React takes care of updating the UI when the state changes."
  },
  {
- "heading": "Together WE CAN, Together WE WILL",
- "text": "We strongly believe that <strong>'One Person Never Does Great Things In Business.</strong> A Team Of People Does Them'.",
- "additionalText": "The Custom Websites is a company with highly dedicated team members that work together to add value to the clients’ business. Each member of our team is committed to their work. Through collaboration and joint effort, we <strong>CREATE</strong> solutions that solve our clients’ problems. We hire our team members through careful recruiting procedures, invest in their training, and make them able to serve the clients. We gained a team of hard-working, committed, and inspiringly skilled professionals who believe in delivering quality to the client throughout our growth."
+ "heading": "Component-Based",
+ "text": "React applications are built using components, which are reusable, self-contained pieces of UI. Components encapsulate their own logic and state, making it easier to manage and maintain complex UIs."
  },
  {
- "heading": "It's Not About Us. It's About Our Clients",
- "text": "We in 'The Custom Websites' serve our clients to our best. Client satisfaction is our priority. We listen to your ideas and give the best development services which satisfy your business needs. We believe that our success is directly dependent on the success of our clients. We add value to clients’ business with the help of our top technology resources and manpower. Our team is dedicated to hear, understand, and thereby figure out the best idea that will lead to the success of your business.",
- "additionalText": "Our relationship with the client is built on loyalty and blooms through their success."
+ "heading": "Virtual DOM",
+ "text": "React uses a virtual DOM to optimize the performance of UI updates. Instead of directly manipulating the browser DOM, React creates a lightweight representation of the DOM in memory and compares it with the actual DOM to determine the minimal set of changes needed to update the UI efficiently."
  },
  {
- "heading": "Quality Over Quantity",
- "text": "<strong>'Quality Is Remembered Long After The Price Is Forgotten'</strong>.",
- "additionalText": "The Custom Websites ensures both the high quality and high value of our development services. The things which set us apart are the well-reputation and high-quality assurance. We promote the culture of improving skills and service-providing methodologies. Every member of our team constantly works to maintain the quality standards of our company. Clients can trust and rely on our companies’ services to establish and grow their business in the industry."
+ "heading": "JSX",
+ "text": "React uses JSX (JavaScript XML) syntax, which allows you to write HTML-like code directly within your JavaScript code. JSX makes it easy to create and compose components in a familiar HTML-like syntax."
  },
  {
- "heading": "WHY YOU SHOULD CHOOSE US",
- "text": "We create manageable websites, develop software with an excellent user experience, and provide designs that confirm the ROI. We work to create magic through YOUR ideas and OUR skills. Feel free to contact us any time – if you want to get the best out of your vision, our team will do whatever it takes to make your business outstand.",
- "additionalText": "Connect with us through our social media platforms to stay tuned about our services. Get in touch with 'The Customer Websites' today, and we will help you create magic through your idea and vision.",
- "choose": [
- "We build trust through end-to-end development services.",
- "We provide quality work done by experts in the relevant field.",
- "We have a team of experts who are upgraded to meet the needs of technology and the business world.",
- "An expert supervises each project to avoid any mess.",
- "Clients can contact us 24/7."
- ]
- }
- ],
- "agileimages": [
- "https://thecustomwebsites.com/wp-content/uploads/2023/05/1.png",
- "https://thecustomwebsites.com/wp-content/uploads/2023/05/2.png",
- "https://thecustomwebsites.com/wp-content/uploads/2023/05/3.png",
- "https://thecustomwebsites.com/wp-content/uploads/2023/05/4.png",
- "https://thecustomwebsites.com/wp-content/uploads/2023/05/5.png",
- "https://thecustomwebsites.com/wp-content/uploads/2023/05/6.png"
- ],
- "industries": [
- {
- "slug": "ecomerce",
- "text": "E-commerce",
- "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/eccommerce.png"
+ "heading": "Unidirectional Data Flow",
+ "text": "React follows a unidirectional data flow, where data flows down from parent components to child components via props. This makes it easier to understand how data is passed and modified within the application."
  },
  {
- "slug": "it-startups",
- "text": "IT & Startups",
- "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/it-startups.png"
+ "heading": "Lifecycle Methods",
+ "text": "React components have lifecycle methods that allow you to hook into different stages of a component's life, such as when it's mounted to the DOM or updated. Lifecycle methods can be used to perform tasks like fetching data, updating the component's state, or cleaning up resources."
  },
  {
- "slug": "education-e-learning",
- "text": "Education & E-learning",
- "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/education-elearning.png"
- },
- {
- "slug": "erp-system",
- "text": "ERP System",
- "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/erp-system.png"
- },
- {
- "slug": "real-estate",
- "text": "Real Estate",
- "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/real-estate.png"
- },
- {
- "slug": "jewelery",
- "text": "Jewelry",
- "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/jewelry.png"
- },
- {
- "slug": "food-rstaurant",
- "text": "Food & Restaurant",
- "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/food.png"
- },
- {
- "slug": "medical-healthcare",
- "text": "Medical & Healthcare",
- "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/medical.png"
- },
- {
- "slug": "gaming",
- "text": "Gaming",
- "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/game.png"
- },
- {
- "slug": "cbd",
- "text": "CBD",
- "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/cbd-1.png"
- }
- ],
- "Offers": [
- {
- "slug": "custom-web-development",
- "text": "Custom Web Development",
- "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/htpyxaicaqftygqbuwev_robvzn.svg"
- },
- {
- "slug": "uiux-design",
- "text": "UI & UX Design",
- "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/reg4ek2hoyu2p6xijshf_ohzbys.svg"
- },
- {
- "slug": "sem",
- "text": "SEM",
- "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/pskqvpgwfpvaxirnkflh_iaawf9.svg"
- },
- {
- "slug": "app-development",
- "text": "App Development",
- "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/reg4ek2hoyu2p6xijshf_ohzbys.svg"
- },
- {
- "slug": "graphics-branding",
- "text": "Graphics & Branding",
- "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/fd9amtrvdglzmm16surr_l3qqfs.svg"
- },
- {
- "slug": "quality-assurance",
- "text": "Quality Assurance",
- "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/sifwzze7kiehbwslcbrm_waex1r.svg"
- },
- {
- "slug": "devops",
- "text": "DevOps",
- "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/ufryavrsvi0lysbio9z2_drbs0q.svg"
- },
- {
- "slug": "cms",
- "text": "CMS",
- "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/fktzbjjevgohlyylbtpf.svg"
- },
- {
- "slug": "seo",
- "text": "SEO",
- "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/untk6q64u64b7iamu1dt.svg"
+ "heading": "React Hooks",
+ "text": "React introduced hooks in version 16.8, which provide a way to add state and other React features to functional components. Hooks allow you to use state and other React features without writing class components, making it easier to reuse logic between components."
  }
  ]
  }
